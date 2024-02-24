@@ -221,7 +221,7 @@ button {
     background-image: url(../images/img-111.png);
     height: auto;
     background-size: 100%;
-    padding: 10px 0px 90px 0px;
+    padding: 10px 0px 0px 0px;
     background-repeat: no-repeat;
 }
 
@@ -474,7 +474,7 @@ ul.social-icons {
 .company_section{
      width: 100%;
      float: left;
-     background-image: url(../images/img-2.png);
+     background-image: url(../images/services.png);
      height: auto;
      padding-bottom: 25px;
      background-size: 100%;
@@ -647,9 +647,8 @@ ul.social-icons {
 }
 
 .more_bt a{
-     color: #ffffff
+     color: #ffffff;
      background-color: #f76b5a;
-
 }
 
 .more_bt a:hover{
